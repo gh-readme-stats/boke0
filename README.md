@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - Homepage: https://boke0ya.com
 - X: https://x.com/boke0_jp
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boke0&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.shion.dev/api?username=boke0&show_icons=true&theme=radical)
